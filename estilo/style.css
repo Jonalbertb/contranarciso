@@ -98,12 +98,12 @@ section#img01{
 
 section#img02{
     background-image: url("../imagens/cidade.jpg");
-   background-position: right   center;
+   background-position:   center;
 }
 
 section#img04{
     background-image:url(../imagens/cafe.jpg) ;
-    background-position: right   center;
+    background-position:  center;
 }
 
 footer {
